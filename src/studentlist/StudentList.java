@@ -1,7 +1,7 @@
 /*
  * Jinyoung Jeon
  * Student ID: 991622283
- * This class is a simple
+ * 2021/05/27
  */
 package studentlist;
 
